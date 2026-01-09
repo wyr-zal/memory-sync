@@ -1,5 +1,150 @@
 {
   "version": "1.0",
-  "lastSync": "2026-01-09T04:16:46.170Z",
-  "memos": []
+  "lastSync": "2026-01-09T04:17:07.352Z",
+  "memos": [
+    {
+      "id": "88d0927c-e506-4f83-9517-cf5c52a393cc",
+      "content": "把X功能改成和-一样的隐藏",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T03:47:39.729Z",
+      "updatedAt": "2026-01-09T03:47:39.729Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "fe44887f-271c-4256-9e51-b0ab7d1f9dd7",
+      "content": "当我用ctrl + shift + m时，界面应该立即弹到一个特定的方便我记任务的位置。而不是只是显示出来",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T03:42:30.956Z",
+      "updatedAt": "2026-01-09T03:42:30.956Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "83b2ce3b-176a-469b-b0f4-fc7722852e41",
+      "content": "在界面点击x应该终止进程，为什么我在后台还能看到他们运行。",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T02:11:08.330Z",
+      "updatedAt": "2026-01-09T02:11:08.330Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "c9535219-b6ad-4353-93a1-a827db940c58",
+      "content": "优化窗口的四个角",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:59:18.383Z",
+      "updatedAt": "2026-01-09T01:59:18.383Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "a62d6dba-2e81-4a0f-a7e6-2842ae4038ff",
+      "content": "在全部任务中已经完成的任务和未完成的任务分割开",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:58:54.184Z",
+      "updatedAt": "2026-01-09T01:58:54.184Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "c900e026-49f0-493c-98cb-8c00ddba0af1",
+      "content": "增加回收箱防止误删",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:56:02.980Z",
+      "updatedAt": "2026-01-09T01:56:02.980Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "2bf9a63f-8508-49c2-9636-46e11af0d182",
+      "content": "你是怎么做到不显示开发工具的窗口的",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:52:44.387Z",
+      "updatedAt": "2026-01-09T01:52:44.387Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "ceff0a22-7b2a-4b18-b0f5-ddb0cdfd5f01",
+      "content": "把图片压缩改成设置选项",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:35:06.437Z",
+      "updatedAt": "2026-01-09T01:35:06.437Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "6bd8e4f7-9538-4511-bafd-be53abffa113",
+      "content": "如何利用Github同步，在我点击同步后没看到Github有更新",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:25:20.763Z",
+      "updatedAt": "2026-01-09T02:08:40.460Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "dbc2f82a-8892-4630-a515-1664d2eba1d4",
+      "content": "要能支持修改事情的等级",
+      "type": "text",
+      "priority": "medium",
+      "status": "completed",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:25:06.236Z",
+      "updatedAt": "2026-01-09T01:51:27.008Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "7077f910-d94e-4e2a-a5bd-938ffec6f526",
+      "content": "去掉 点击吸附到边缘按钮，改成当把窗口拖动到边缘时自动吸附。吸附时双击窗口自动弹出来。",
+      "type": "text",
+      "priority": "low",
+      "status": "completed",
+      "attachments": [],
+      "createdAt": "2026-01-09T01:28:49.314Z",
+      "updatedAt": "2026-01-09T01:57:52.284Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "52631691-b884-4caf-abae-445d1cb7a802",
+      "content": "下一步完成手机端",
+      "type": "text",
+      "priority": "low",
+      "status": "deferred",
+      "attachments": [],
+      "createdAt": "2026-01-08T13:58:28.009Z",
+      "updatedAt": "2026-01-09T01:53:00.423Z",
+      "deviceId": "desktop",
+      "deleted": false
+    }
+  ]
 }
