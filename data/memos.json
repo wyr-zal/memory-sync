@@ -1,7 +1,47 @@
 {
   "version": "1.0",
-  "lastSync": "2026-01-09T04:18:46.048Z",
+  "lastSync": "2026-01-09T10:04:06.797Z",
   "memos": [
+    {
+      "id": "42347cc1-b3b7-4a8c-8e23-496ba8b7297a",
+      "content": "测试压缩选项",
+      "type": "image",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [
+        "a36458af-7c67-4236-aea2-191459b3074e.png"
+      ],
+      "createdAt": "2026-01-09T10:00:06.643Z",
+      "updatedAt": "2026-01-09T10:00:06.643Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "2f4a76e4-c943-4733-ad61-cecda45494a7",
+      "content": "添加标签功能，不同事情可以属于不同标签。能根据标签查找",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T09:32:37.394Z",
+      "updatedAt": "2026-01-09T09:32:37.394Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "1d6f238f-9fd6-4c67-bb00-afdc3e05b610",
+      "content": "测试",
+      "type": "image",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [
+        "f8a59a31-42a3-4ff9-9b45-6ae5e82477f7.png"
+      ],
+      "createdAt": "2026-01-09T09:31:07.106Z",
+      "updatedAt": "2026-01-09T09:31:07.106Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
     {
       "id": "88d0927c-e506-4f83-9517-cf5c52a393cc",
       "content": "把X功能改成和-一样的隐藏",
@@ -51,18 +91,6 @@
       "deleted": false
     },
     {
-      "id": "a62d6dba-2e81-4a0f-a7e6-2842ae4038ff",
-      "content": "在全部任务中已经完成的任务和未完成的任务分割开",
-      "type": "text",
-      "priority": "medium",
-      "status": "pending",
-      "attachments": [],
-      "createdAt": "2026-01-09T01:58:54.184Z",
-      "updatedAt": "2026-01-09T01:58:54.184Z",
-      "deviceId": "desktop",
-      "deleted": false
-    },
-    {
       "id": "c900e026-49f0-493c-98cb-8c00ddba0af1",
       "content": "增加回收箱防止误删",
       "type": "text",
@@ -103,10 +131,10 @@
       "content": "如何利用Github同步，在我点击同步后没看到Github有更新",
       "type": "text",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [],
       "createdAt": "2026-01-09T01:25:20.763Z",
-      "updatedAt": "2026-01-09T02:08:40.460Z",
+      "updatedAt": "2026-01-09T09:30:43.492Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -142,7 +170,7 @@
       "status": "deferred",
       "attachments": [],
       "createdAt": "2026-01-08T13:58:28.009Z",
-      "updatedAt": "2026-01-09T01:53:00.423Z",
+      "updatedAt": "2026-01-09T09:32:56.024Z",
       "deviceId": "desktop",
       "deleted": false
     }
