@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-01-09T10:08:06.789Z",
+  "lastSync": "2026-01-09T10:34:26.914Z",
   "memos": [
     {
       "id": "55687494-bfb7-46f5-be34-60fe2935c895",
@@ -57,12 +57,12 @@
       "content": "测试",
       "type": "image",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [
         "f8a59a31-42a3-4ff9-9b45-6ae5e82477f7.png"
       ],
       "createdAt": "2026-01-09T09:31:07.106Z",
-      "updatedAt": "2026-01-09T09:31:07.106Z",
+      "updatedAt": "2026-01-09T10:23:45.837Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -71,10 +71,10 @@
       "content": "把X功能改成和-一样的隐藏",
       "type": "text",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [],
       "createdAt": "2026-01-09T03:47:39.729Z",
-      "updatedAt": "2026-01-09T03:47:39.729Z",
+      "updatedAt": "2026-01-09T10:23:44.582Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -83,10 +83,10 @@
       "content": "当我用ctrl + shift + m时，界面应该立即弹到一个特定的方便我记任务的位置。而不是只是显示出来",
       "type": "text",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [],
       "createdAt": "2026-01-09T03:42:30.956Z",
-      "updatedAt": "2026-01-09T03:42:30.956Z",
+      "updatedAt": "2026-01-09T10:19:51.875Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -95,10 +95,10 @@
       "content": "在界面点击x应该终止进程，为什么我在后台还能看到他们运行。",
       "type": "text",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [],
       "createdAt": "2026-01-09T02:11:08.330Z",
-      "updatedAt": "2026-01-09T02:11:08.330Z",
+      "updatedAt": "2026-01-09T10:21:05.589Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -107,10 +107,10 @@
       "content": "优化窗口的四个角",
       "type": "text",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [],
       "createdAt": "2026-01-09T01:59:18.383Z",
-      "updatedAt": "2026-01-09T01:59:18.383Z",
+      "updatedAt": "2026-01-09T10:19:35.957Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -119,10 +119,10 @@
       "content": "增加回收箱防止误删",
       "type": "text",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "attachments": [],
       "createdAt": "2026-01-09T01:56:02.980Z",
-      "updatedAt": "2026-01-09T01:56:02.980Z",
+      "updatedAt": "2026-01-09T10:19:29.765Z",
       "deviceId": "desktop",
       "deleted": false
     },
@@ -195,6 +195,18 @@
       "attachments": [],
       "createdAt": "2026-01-08T13:58:28.009Z",
       "updatedAt": "2026-01-09T09:32:56.024Z",
+      "deviceId": "desktop",
+      "deleted": false
+    },
+    {
+      "id": "2c122d1f-9030-4d18-96e7-75765a69b217",
+      "content": "优化后台图标",
+      "type": "text",
+      "priority": "medium",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2026-01-09T10:23:28.550Z",
+      "updatedAt": "2026-01-09T10:23:28.550Z",
       "deviceId": "desktop",
       "deleted": false
     }
